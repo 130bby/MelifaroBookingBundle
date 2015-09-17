@@ -82,7 +82,4 @@ abstract class Booking
         return $this->end;
     }
 
-    abstract public function getItem();
-
-    abstract public function setItem($item);
 }
